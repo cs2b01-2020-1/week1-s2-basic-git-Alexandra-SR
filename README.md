@@ -1,2 +1,2 @@
 # week1-s2-basic-git-Alexandra-SR
-week1-s2-basic-git-Alexandra-SR created by GitHub Classroom
+CS2B01 - Desarrollo basado en plataforma
